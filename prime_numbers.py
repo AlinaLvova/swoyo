@@ -1,3 +1,5 @@
+import argparse
+
 def is_prime(number):
     if number <= 1:
         return False
@@ -23,8 +25,17 @@ def prime_numbers(low, high):
             prime_list.append(num)
     return prime_list
 
-# # Пример использования функции:
-# low = 10
-# high = 500000
-# result = prime_numbers(low, high)
-# print(result)
+def main():
+    parser = argparse.ArgumentParser(description="Find prime numbers in a given range.")
+    parser.add_argument("low", type=int, help="The lower bound of the range")
+    parser.add_argument("high", type=int, help="The upper bound of the range")
+    args = parser.parse_args()
+    
+    low = args.low
+    high = args.high
+
+    result = prime_numbers(low, high)
+    print(result)
+
+if __name__ == '__main__':
+    main()
