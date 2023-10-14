@@ -23,8 +23,8 @@ def prime_numbers(low, high):
             prime_list.append(num)
     return prime_list
 
-# Пример использования функции:
-low = 10
-high = 500000
-result = prime_numbers(low, high)
-print(result)
+# # Пример использования функции:
+# low = 10
+# high = 500000
+# result = prime_numbers(low, high)
+# print(result)
