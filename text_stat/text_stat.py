@@ -72,7 +72,7 @@ def text_stat(filename):
 
 # Пример использования функции
 if __name__ == "__main__":
-    filename = 'test_files/hyphenated_words_file.txt'
+    filename = 'test_files/example_text_file.txt'
     stats = text_stat(filename)
     if 'error' in stats:
         print(stats['error'])
