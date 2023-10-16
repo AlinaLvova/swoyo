@@ -31,7 +31,12 @@ python -m unittest test_roman_numerals.py
 python prime_numbers.py <roman_numeral>
 ```
 
+## Пример работы программы
+
+![image](https://github.com/AlinaLvova/swoyo/assets/37267494/f96d39a5-bf45-4e2d-8f1e-ce789dbf7ded)
+
 ## Ресурсы
 
-[1](https://pythonist.ru/regulyarnoe-vyrazhenie-dlya-proverki-rimskih-chisel-na-python/)
-[2](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B)
+[1]:[Регулярное выражение для проверки римских чисел (на Python)](https://pythonist.ru/regulyarnoe-vyrazhenie-dlya-proverki-rimskih-chisel-na-python/)
+
+[2]:[Римские цифры](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B)
