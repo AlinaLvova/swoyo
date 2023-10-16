@@ -37,6 +37,6 @@ python prime_numbers.py <roman_numeral>
 
 ## Ресурсы
 
-[1]:[Регулярное выражение для проверки римских чисел (на Python)](https://pythonist.ru/regulyarnoe-vyrazhenie-dlya-proverki-rimskih-chisel-na-python/)
+[1]: [Регулярное выражение для проверки римских чисел (на Python)](https://pythonist.ru/regulyarnoe-vyrazhenie-dlya-proverki-rimskih-chisel-na-python/)
 
-[2]:[Римские цифры](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B)
+[2]: [Римские цифры](https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D1%86%D0%B8%D1%84%D1%80%D1%8B)
