@@ -1,0 +1,15 @@
+Это пример текста с несколькими абзацами.
+
+    Второй абзац начинается здесь. Он продолжается на следующей строке.
+
+Третий абзац текста. Здесь можно добавить дополнительные строки для теста.
+
+Абзац начинается не только через строку. Это такой пример.
+    И пусть он начинается с красной строки тоже. Это тоже абзац.
+
+
+Пусть перед абзацем много много строк. The speaker, and the schoolmaster, and the third grown person present, all backed a little, and swept with their eyes the inclined plane of little vessels then and there arranged in order, ready to have imperial gallons of facts poured into them until they were full to the brim.
+
+
+
+И последний, седьмой абзац текста.

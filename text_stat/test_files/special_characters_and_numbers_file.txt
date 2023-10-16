@@ -1,0 +1,2 @@
+This is a file with special characters: @, #, $, %, and numbers: 123, 456.78.
+1 литр молока стоит 76.50 рублей.

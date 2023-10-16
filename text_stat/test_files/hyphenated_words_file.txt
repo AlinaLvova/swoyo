@@ -1,0 +1,5 @@
+This is a sample file with hyphenated words like mother-in-law and editor-in-chief.
+Hyphenated words are common in English-language texts.
+Это образец текста с двойными словами, такими как мать-и-дочь и режиссер-постановщик,  брат-и-сестра и врач-хирург.
+Переменная max_value_index обозначает индекс максимального значения в списке.
+E-mail lv.al@gmail.com

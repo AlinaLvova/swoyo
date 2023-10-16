@@ -1,2 +1,5 @@
 __pycache__/
 .conda/
+
+text_stat/__pycache__/
+prime_numbers/__pycache__/
