@@ -4,6 +4,9 @@ from is_roman_number import is_roman_number
 def roman_numerals_to_int(roman_numeral):
     roman_str = roman_numeral.upper()
 
+    if len(roman_str) == 0:
+        return 0
+
     if not is_roman_number(roman_str):
         return None
 
@@ -24,7 +27,7 @@ def roman_numerals_to_int(roman_numeral):
 
 def main():
     parser = argparse.ArgumentParser(description="Convert Roman numerals to integers.")
-    parser.add_argument("roman_numeral", help="The Roman numeral to convert.")
+    parser.add_argument("roman_numeral", nargs='?', default='', help="The Roman numeral to convert (default: 0).")
     args = parser.parse_args()
 
     roman_numeral = args.roman_numeral
